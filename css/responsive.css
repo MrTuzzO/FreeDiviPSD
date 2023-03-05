@@ -1,0 +1,44 @@
+@media(max-width:1226px) {
+    header .banner_content h2 {
+        font-size: 60px;
+    }
+
+    header .banner_label p {
+        font-size: 60px;
+    }
+
+    header .banner_label .p_2 {
+        font-size: 30px;
+    }
+
+    header .banner_label {
+        line-height: normal;
+    }
+}
+
+@media(max-width:992px) {}
+
+@media(max-width:768px) {
+
+
+    @media(max-width:800px) {
+        header .banner_content h2 {
+            font-size: 45px;
+        }
+
+        header .banner_label p {
+            font-size: 45px;
+        }
+
+        header .banner_label .p_2 {
+            font-size: 20px;
+        }
+    }
+
+    @media(max-width:460px) {
+        #intro .box_border p {
+            font-size: 30px;
+            top: 50px;
+            left: 15px;
+        }
+    }
